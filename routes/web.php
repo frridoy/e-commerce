@@ -45,3 +45,5 @@ Route::group(['middleware'=> 'admin.auth'], function(){
 
 
 });
+
+
